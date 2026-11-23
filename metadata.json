@@ -1,0 +1,6 @@
+{
+  "name": "إدارة الآبار",
+  "description": "تطبيق ميداني يعمل دون إنترنت لتوثيق وإدارة بيانات العملاء والآبار، تتبع أعمال الحفر والصيانة، الحسابات المالية، ونقاط المسح الميداني.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
